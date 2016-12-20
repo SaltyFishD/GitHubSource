@@ -4,6 +4,7 @@
 
 #include "ui_untitled.h"
 
+//asda
 class DoutDialog: public QDialog, public Ui::Dialog
 {
     Q_OBJECT
